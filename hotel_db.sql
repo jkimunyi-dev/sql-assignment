@@ -499,20 +499,5 @@ ORDER BY booking_month;
 
 SELECT * FROM room_updates_log ORDER BY update_timestamp DESC;
 
-
-
-
-
-
 SHOW TABLES;
 SHOW TRIGGERS;
-
-
-
-
-
-
-
-
-
-
